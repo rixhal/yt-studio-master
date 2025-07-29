@@ -1,0 +1,3 @@
+# This file ensures the VSTs directory is tracked by Git
+# while keeping all VST plugin files ignored per .gitignore rules
+# Place your VST plugins in this directory for local development

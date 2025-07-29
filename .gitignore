@@ -1,0 +1,184 @@
+# ===========================================
+# YT STUDIO MASTER - OPTIMIERTE .GITIGNORE
+# ===========================================
+
+# Python Standard
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE & Editor
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+.vscode/.ropeproject
+.spyderproject
+.spyproject
+.ropeproject
+
+# ===========================================
+# AUDIO & MASTERING OUTPUT
+# ===========================================
+
+# Audio Files (Input/Output)
+output/downloads/
+output/masters/
+output/quality_reports/
+output/temp/
+
+# Audio Formats
+*.wav
+*.mp3
+*.flac
+*.aac
+*.m4a
+*.ogg
+*.wma
+*.aiff
+*.au
+*.raw
+
+# Temporary Audio Processing
+temp_*
+*_temp.*
+*_MASTERED_*
+*_CLUBREADY_*
+
+# ===========================================
+# VST PLUGINS & CONFIGURATION
+# ===========================================
+
+# VST Plugin Files (Keep folder structure)
+VSTs/*/
+!VSTs/mock_vst_plugins.py
+*.dll
+*.vst3
+*.component
+*.au
+
+# Plugin Presets (Large files)
+VSTs/*/Presets/
+VSTs/*/presets/
+
+# ===========================================
+# LOGS & REPORTS
+# ===========================================
+
+# Log Files
+*.log
+logs/
+
+# Processing Reports
+*_report.json
+*_analysis.*
+*_summary.*
+
+# ===========================================
+# SYSTEM & BACKUP
+# ===========================================
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+*.lnk
+
+# Backup Files
+*.bak
+*.backup
+*.old
+*.orig
+*.tmp
+
+# Cache
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# ===========================================
+# SECURITY & CREDENTIALS (KRITISCH!)
+# ===========================================
+
+# Environment Files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# API Keys & Secrets
+*.key
+*.pem
+*.p12
+secrets.json
+config.json
+api_keys.json
+tokens.json
+
+# Discogs API specifics
+discogs_token.txt
+*discogs*token*
+
+# ===========================================
+# DEVELOPMENT & TESTING
+# ===========================================
+
+# Test Files
+test_*
+demo_*
+debug_*
+example_*
+
+# Coverage & Testing
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# ===========================================
+# KEEP THESE IMPORTANT FILES
+# ===========================================
+# plugin_map.json - AKTIV VERWENDET ✅
+# yt_master_core.py - HAUPT-SCRIPT ✅
+# requirements.txt - DEPENDENCIES ✅
+# README.md - DOKUMENTATION ✅
