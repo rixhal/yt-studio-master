@@ -13,7 +13,7 @@
     },
     "b3e1461227353aad": {
       "name": "Neutron 5 Sculptor.vst3",
-      "path": "C:/Program Files/Common Files/VST3\\iZotope\\Neutron 5 Sculptor.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\Neutron 5 Sculptor.vst3",
       "size": 2064896,
       "modified": 1730098800.0,
       "hash": "b3e1461227353aad",
@@ -24,7 +24,7 @@
     },
     "2e63039fc8ddf834": {
       "name": "Neutron 5 Compressor.vst3",
-      "path": "C:/Program Files/Common Files/VST3\\iZotope\\Neutron 5 Compressor.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\Neutron 5 Compressor.vst3",
       "size": 2064896,
       "modified": 1730098800.0,
       "hash": "2e63039fc8ddf834",
@@ -35,7 +35,7 @@
     },
     "eda462eaea525c10": {
       "name": "Neutron 5 Equalizer.vst3",
-      "path": "C:/Program Files/Common Files/VST3\\iZotope\\Neutron 5 Equalizer.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\Neutron 5 Equalizer.vst3",
       "size": 2064896,
       "modified": 1730098800.0,
       "hash": "eda462eaea525c10",
@@ -46,7 +46,7 @@
     },
     "cfe68ae3ce16b352": {
       "name": "Neutron 5 Gate.vst3",
-      "path": "C:/Program Files/Common Files/VST3\\iZotope\\Neutron 5 Gate.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\Neutron 5 Gate.vst3",
       "size": 2064896,
       "modified": 1730098800.0,
       "hash": "cfe68ae3ce16b352",
@@ -57,7 +57,7 @@
     },
     "507026fd3ce4c029": {
       "name": "Neutron 5 Phase.vst3",
-      "path": "C:/Program Files/Common Files/VST3\\iZotope\\Neutron 5 Phase.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\Neutron 5 Phase.vst3",
       "size": 2064896,
       "modified": 1730098800.0,
       "hash": "507026fd3ce4c029",
@@ -68,7 +68,7 @@
     },
     "03253942b95678bf": {
       "name": "Neutron 5 Transient Shaper.vst3",
-      "path": "C:/Program Files/Common Files/VST3\\iZotope\\Neutron 5 Transient Shaper.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\Neutron 5 Transient Shaper.vst3",
       "size": 2064896,
       "modified": 1730098800.0,
       "hash": "03253942b95678bf",
@@ -79,7 +79,7 @@
     },
     "81874a33bce62d5d": {
       "name": "Neutron 5 Unmask.vst3",
-      "path": "C:/Program Files/Common Files/VST3\\iZotope\\Neutron 5 Unmask.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\Neutron 5 Unmask.vst3",
       "size": 2064896,
       "modified": 1730098800.0,
       "hash": "81874a33bce62d5d",
@@ -90,7 +90,7 @@
     },
     "5726c87d45bd86f8": {
       "name": "Neutron 5 Visual Mixer.vst3",
-      "path": "C:/Program Files/Common Files/VST3\\iZotope\\Neutron 5 Visual Mixer.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\Neutron 5 Visual Mixer.vst3",
       "size": 2064384,
       "modified": 1730098800.0,
       "hash": "5726c87d45bd86f8",
@@ -101,7 +101,7 @@
     },
     "e3423c84269a6b51": {
       "name": "Neutron 5.vst3",
-      "path": "C:/Program Files/Common Files/VST3\\iZotope\\Neutron 5.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\Neutron 5.vst3",
       "size": 2064384,
       "modified": 1730098800.0,
       "hash": "e3423c84269a6b51",
@@ -112,7 +112,7 @@
     },
     "f25a61faabb22d6f": {
       "name": "Ozone 11 Impact.vst3",
-      "path": "C:/Program Files/Common Files/VST3\\iZotope\\Ozone 11 Impact.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\Ozone 11 Impact.vst3",
       "size": 2063872,
       "modified": 1724277600.0,
       "hash": "f25a61faabb22d6f",
@@ -123,7 +123,7 @@
     },
     "bf2c4756cb0d26ac": {
       "name": "Ozone 11 Dynamic EQ.vst3",
-      "path": "C:/Program Files/Common Files/VST3\\iZotope\\Ozone 11 Dynamic EQ.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\Ozone 11 Dynamic EQ.vst3",
       "size": 2063872,
       "modified": 1724277600.0,
       "hash": "bf2c4756cb0d26ac",
@@ -134,7 +134,7 @@
     },
     "e0b5da419d67ba83": {
       "name": "Ozone 11 Match EQ.vst3",
-      "path": "C:/Program Files/Common Files/VST3\\iZotope\\Ozone 11 Match EQ.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\Ozone 11 Match EQ.vst3",
       "size": 2063872,
       "modified": 1724277600.0,
       "hash": "e0b5da419d67ba83",
@@ -145,7 +145,7 @@
     },
     "a959c97a41db7c2f": {
       "name": "Ozone 11 Low End Focus.vst3",
-      "path": "C:/Program Files/Common Files/VST3\\iZotope\\Ozone 11 Low End Focus.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\Ozone 11 Low End Focus.vst3",
       "size": 2063872,
       "modified": 1724277600.0,
       "hash": "a959c97a41db7c2f",
@@ -156,7 +156,7 @@
     },
     "0e6f11351e60f669": {
       "name": "Ozone 11 Master Rebalance.vst3",
-      "path": "C:/Program Files/Common Files/VST3\\iZotope\\Ozone 11 Master Rebalance.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\Ozone 11 Master Rebalance.vst3",
       "size": 2063872,
       "modified": 1724277600.0,
       "hash": "0e6f11351e60f669",
@@ -167,7 +167,7 @@
     },
     "08da4905173b461c": {
       "name": "Ozone 11 Maximizer.vst3",
-      "path": "C:/Program Files/Common Files/VST3\\iZotope\\Ozone 11 Maximizer.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\Ozone 11 Maximizer.vst3",
       "size": 2063872,
       "modified": 1724277600.0,
       "hash": "08da4905173b461c",
@@ -178,18 +178,18 @@
     },
     "1259fc008f022590": {
       "name": "Ozone 11 Spectral Shaper.vst3",
-      "path": "C:/Program Files/Common Files/VST3\\iZotope\\Ozone 11 Spectral Shaper.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\Ozone 11 Spectral Shaper.vst3",
       "size": 2063872,
       "modified": 1724277600.0,
       "hash": "1259fc008f022590",
       "category": "suite",
       "confidence": 0.95,
       "manufacturer": "izotope",
-      "score": 9.7
+      "score": 10.0
     },
     "f6ef629420b3da04": {
       "name": "Ozone 11 Vintage EQ.vst3",
-      "path": "C:/Program Files/Common Files/VST3\\iZotope\\Ozone 11 Vintage EQ.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\Ozone 11 Vintage EQ.vst3",
       "size": 2063872,
       "modified": 1724277600.0,
       "hash": "f6ef629420b3da04",
@@ -200,7 +200,7 @@
     },
     "183f39fa587d0383": {
       "name": "Ozone 11 Vintage Compressor.vst3",
-      "path": "C:/Program Files/Common Files/VST3\\iZotope\\Ozone 11 Vintage Compressor.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\Ozone 11 Vintage Compressor.vst3",
       "size": 2063872,
       "modified": 1724277600.0,
       "hash": "183f39fa587d0383",
@@ -211,7 +211,7 @@
     },
     "fe38b0ae0c297b0b": {
       "name": "Ozone 11 Vintage Limiter.vst3",
-      "path": "C:/Program Files/Common Files/VST3\\iZotope\\Ozone 11 Vintage Limiter.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\Ozone 11 Vintage Limiter.vst3",
       "size": 2063872,
       "modified": 1724277600.0,
       "hash": "fe38b0ae0c297b0b",
@@ -222,7 +222,7 @@
     },
     "5b822ab1c43751f6": {
       "name": "Ozone 11 Vintage Tape.vst3",
-      "path": "C:/Program Files/Common Files/VST3\\iZotope\\Ozone 11 Vintage Tape.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\Ozone 11 Vintage Tape.vst3",
       "size": 2063872,
       "modified": 1724277600.0,
       "hash": "5b822ab1c43751f6",
@@ -233,7 +233,7 @@
     },
     "5c9f308cbebe27e6": {
       "name": "Ozone 11.vst3",
-      "path": "C:/Program Files/Common Files/VST3\\iZotope\\Ozone 11.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\Ozone 11.vst3",
       "size": 2063360,
       "modified": 1724277600.0,
       "hash": "5c9f308cbebe27e6",
@@ -241,6 +241,127 @@
       "confidence": 0.95,
       "manufacturer": "izotope",
       "score": 9.7
+    },
+    "de6b7ba0817fe66e": {
+      "name": "RX 11 Voice De-noise.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\RX 11 Voice De-noise.vst3",
+      "size": 2063872,
+      "modified": 1725653348.0,
+      "hash": "de6b7ba0817fe66e",
+      "category": "restoration",
+      "confidence": 0.98,
+      "manufacturer": "izotope",
+      "score": 10.0
+    },
+    "2463c7f5c01e9ed5": {
+      "name": "RX 11 Monitor.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\RX 11 Monitor.vst3",
+      "size": 2063872,
+      "modified": 1725653318.0,
+      "hash": "2463c7f5c01e9ed5",
+      "category": "restoration",
+      "confidence": 0.98,
+      "manufacturer": "izotope",
+      "score": 10.0
+    },
+    "e55851b6dd0973ac": {
+      "name": "RX 11 De-click.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\RX 11 De-click.vst3",
+      "size": 2063872,
+      "modified": 1725653283.0,
+      "hash": "e55851b6dd0973ac",
+      "category": "restoration",
+      "confidence": 0.98,
+      "manufacturer": "izotope",
+      "score": 10.0
+    },
+    "f02ca6840cf123fa": {
+      "name": "RX 11 De-crackle.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\RX 11 De-crackle.vst3",
+      "size": 2063872,
+      "modified": 1725653298.0,
+      "hash": "f02ca6840cf123fa",
+      "category": "restoration",
+      "confidence": 0.98,
+      "manufacturer": "izotope",
+      "score": 10.0
+    },
+    "566df3c8df9f9d54": {
+      "name": "RX 11 De-hum.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\RX 11 De-hum.vst3",
+      "size": 2063872,
+      "modified": 1725653308.0,
+      "hash": "566df3c8df9f9d54",
+      "category": "restoration",
+      "confidence": 0.98,
+      "manufacturer": "izotope",
+      "score": 10.0
+    },
+    "ff1f38113ed16a08": {
+      "name": "RX 11 De-reverb.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\RX 11 De-reverb.vst3",
+      "size": 2063872,
+      "modified": 1725653269.0,
+      "hash": "ff1f38113ed16a08",
+      "category": "restoration",
+      "confidence": 0.98,
+      "manufacturer": "izotope",
+      "score": 10.0
+    },
+    "6b566f8e2d376284": {
+      "name": "RX 11 Dialogue Isolate.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\RX 11 Dialogue Isolate.vst3",
+      "size": 2063872,
+      "modified": 1725653277.0,
+      "hash": "6b566f8e2d376284",
+      "category": "restoration",
+      "confidence": 0.98,
+      "manufacturer": "izotope",
+      "score": 10.0
+    },
+    "8580cbebf3b3628e": {
+      "name": "RX 11 Spectral Editor.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\RX 11 Spectral Editor.vst3",
+      "size": 2063872,
+      "modified": 1725653343.0,
+      "hash": "8580cbebf3b3628e",
+      "category": "restoration",
+      "confidence": 0.98,
+      "manufacturer": "izotope",
+      "score": 10.0
+    },
+    "1454e4c58c16d241": {
+      "name": "RX 11 Mouth De-click.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\RX 11 Mouth De-click.vst3",
+      "size": 2063872,
+      "modified": 1725653258.0,
+      "hash": "1454e4c58c16d241",
+      "category": "restoration",
+      "confidence": 0.98,
+      "manufacturer": "izotope",
+      "score": 10.0
+    },
+    "9dbb66fe80996438": {
+      "name": "RX 11 Repair Assistant.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\RX 11 Repair Assistant.vst3",
+      "size": 2063872,
+      "modified": 1725653273.0,
+      "hash": "9dbb66fe80996438",
+      "category": "restoration",
+      "confidence": 0.98,
+      "manufacturer": "izotope",
+      "score": 10.0
+    },
+    "ace5bdb8638ab0d5": {
+      "name": "RX 11 Spectral De-noise.vst3",
+      "path": "C:/Program Files/Common Files/VST3/iZotope\\RX 11 Spectral De-noise.vst3",
+      "size": 2063872,
+      "modified": 1725653333.0,
+      "hash": "ace5bdb8638ab0d5",
+      "category": "restoration",
+      "confidence": 0.98,
+      "manufacturer": "izotope",
+      "score": 10.0
     },
     "1d9c8c6b92a24d40": {
       "name": "Newfangled Elevate.vst3",
@@ -318,6 +439,17 @@
       "confidence": 0.95,
       "manufacturer": "psp",
       "score": 9.0
+    },
+    "9d11dd6505fc3c6d": {
+      "name": "iZRX11Core.dll",
+      "path": "VSTs/iZotope/RX 11 Audio Editor\\Cores\\iZRX11Core.dll",
+      "size": 404421120,
+      "modified": 1725654558.0,
+      "hash": "9d11dd6505fc3c6d",
+      "category": "restoration",
+      "confidence": 0.98,
+      "manufacturer": "izotope",
+      "score": 10.0
     },
     "b7205f93aba9e928": {
       "name": "FabFilter Micro.dll",
@@ -549,8 +681,85 @@
       "confidence": 0.95,
       "manufacturer": "psp",
       "score": 8.8
+    },
+    "f53c5becc494e6f1": {
+      "name": "iZNeutron5Core.dll",
+      "path": "VSTs/Neutron 5\\Neutron 5\\Cores\\iZNeutron5Core.dll",
+      "size": 276243968,
+      "modified": 1730098800.0,
+      "hash": "f53c5becc494e6f1",
+      "category": "suite",
+      "confidence": 0.95,
+      "manufacturer": "izotope",
+      "score": 10.0
+    },
+    "dfbc9aa1031ab146": {
+      "name": "iZOzone11Core.dll",
+      "path": "VSTs/Ozone 11 Advanced\\Ozone\\Cores\\iZOzone11Core.dll",
+      "size": 167052800,
+      "modified": 1724277600.0,
+      "hash": "dfbc9aa1031ab146",
+      "category": "suite",
+      "confidence": 0.95,
+      "manufacturer": "izotope",
+      "score": 10.0
+    },
+    "93d5e448505a91bc": {
+      "name": "libmp3lame.dll",
+      "path": "VSTs/Ozone 11 Advanced\\Ozone\\win64\\libmp3lame.dll",
+      "size": 367104,
+      "modified": 1724277600.0,
+      "hash": "93d5e448505a91bc",
+      "category": "unknown",
+      "confidence": 0.0,
+      "manufacturer": "izotope",
+      "score": 9.5
+    },
+    "c0f7534f30d7e578": {
+      "name": "libmp3lame.dll",
+      "path": "VSTs/iZotope/RX 11 Audio Editor\\win64\\libmp3lame.dll",
+      "size": 367104,
+      "modified": 1725654561.0,
+      "hash": "c0f7534f30d7e578",
+      "category": "unknown",
+      "confidence": 0.0,
+      "manufacturer": "izotope",
+      "score": 9.5
+    },
+    "8d830e5b3ca8bfff": {
+      "name": "onnxruntime.dll",
+      "path": "VSTs/iZotope/RX 11 Audio Editor\\win64\\onnxruntime.dll",
+      "size": 10971648,
+      "modified": 1725654561.0,
+      "hash": "8d830e5b3ca8bfff",
+      "category": "unknown",
+      "confidence": 0.0,
+      "manufacturer": "izotope",
+      "score": 9.8
+    },
+    "504a4bb86fe3d5ce": {
+      "name": "tag.dll",
+      "path": "VSTs/iZotope/RX 11 Audio Editor\\win64\\tag.dll",
+      "size": 677376,
+      "modified": 1725654561.0,
+      "hash": "504a4bb86fe3d5ce",
+      "category": "unknown",
+      "confidence": 0.0,
+      "manufacturer": "izotope",
+      "score": 9.5
+    },
+    "b4aa6731ec12d740": {
+      "name": "tensorflowlite_flex.dll",
+      "path": "VSTs/iZotope/RX 11 Audio Editor\\win64\\tensorflowlite_flex.dll",
+      "size": 162214400,
+      "modified": 1725654560.0,
+      "hash": "b4aa6731ec12d740",
+      "category": "unknown",
+      "confidence": 0.0,
+      "manufacturer": "izotope",
+      "score": 10.0
     }
   },
-  "last_scan": "2025-07-29T14:37:41.737588",
+  "last_scan": "2025-07-30T01:45:12.976479",
   "version": "1.0"
 }

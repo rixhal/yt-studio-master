@@ -50,10 +50,14 @@ venv.bak/
 # ===========================================
 
 # Audio Files (Input/Output)
-output/downloads/
-output/masters/
-output/quality_reports/
-output/temp/
+output/downloads/*
+!output/downloads/.gitkeep
+output/masters/*
+!output/masters/.gitkeep
+output/quality_reports/*
+!output/quality_reports/.gitkeep
+output/temp/*
+!output/temp/.gitkeep
 
 # Audio Formats
 *.wav
@@ -77,17 +81,32 @@ temp_*
 # VST PLUGINS & CONFIGURATION
 # ===========================================
 
-# VST Plugin Files (Keep folder structure)
-VSTs/*/
+# VST Plugin Files (COMPLETE FOLDER PROTECTION)
+VSTs/
+vsts/
+plugins/
 !VSTs/mock_vst_plugins.py
+
+# Plugin Binaries
 *.dll
 *.vst3
 *.component
 *.au
+*.vst
 
-# Plugin Presets (Large files)
-VSTs/*/Presets/
-VSTs/*/presets/
+# Audio Software Installations
+*/iZotope/*
+*/Neutron*/*
+*/Ozone*/*
+*/RX*/*
+*/Elevate*/*
+*/PSP*/*
+
+# Plugin Presets & User Data
+*/Presets/
+*/presets/
+*/UserPresets/
+*/Settings/
 
 # ===========================================
 # LOGS & REPORTS
@@ -152,6 +171,47 @@ tokens.json
 # Discogs API specifics
 discogs_token.txt
 *discogs*token*
+
+# YouTube API & Download Tokens
+youtube_api_key.txt
+yt_*token*
+*youtube*key*
+
+# Discord Bot Tokens
+discord_token.txt
+*discord*token*
+
+# ===========================================
+# PRIVATE AUDIO CONTENT & USER DATA
+# ===========================================
+
+# User Reference Tracks (Private Music)
+references/user_references/*
+!references/user_references/.gitkeep
+references/genre_templates/*/
+!references/genre_templates/*/.gitkeep
+
+# Downloaded Music Content (Already covered above)
+# output/downloads/*.mp3 - REMOVED DUPLICATE
+# output/downloads/*.wav - REMOVED DUPLICATE  
+# output/downloads/*.info.json - REMOVED DUPLICATE
+# output/downloads/*.json - REMOVED DUPLICATE
+
+# Processed Masters (Commercial Content)
+output/masters/*.wav
+output/masters/*.mp3
+output/masters/*.flac
+
+# Quality Analysis Reports (May contain metadata)
+output/quality_reports/*.json
+output/quality_reports/*.txt
+
+# Processing Logs (May contain file paths/names)
+output/processing.log
+output/*.log
+
+# Temporary Processing Files (Already covered above)
+# output/temp/* - REMOVED DUPLICATE
 
 # ===========================================
 # DEVELOPMENT & TESTING
